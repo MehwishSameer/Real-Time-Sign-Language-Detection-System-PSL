@@ -1,5 +1,5 @@
 Real-Time Sign Language Detection System (PSL)
-Developed a real-time detection system for Pakistan Sign Language (PSL) using YOLOv8 and OpenCV, achieving an average confidence level of ~95%. Personally collected and annotated a custom PSL dataset tailored to project requirements (data cannot be shared due to privacy constraints). The system processes live webcam input, detects hand gestures, and displays bounding boxes and labels in real time. It also generates a live transcript of detected signs, enabling smooth interpretation for continuous sign language sequences.
+Developed a real-time detection system for Pakistan Sign Language (PSL) using YOLOv8 and OpenCV, achieving an accuracy of ~95%. Personally collected and annotated a custom PSL dataset tailored to project requirements (data cannot be shared due to privacy constraints). The system processes live webcam input, detects hand gestures, and displays bounding boxes and labels in real time. It also generates a live transcript of detected signs, enabling smooth interpretation for continuous sign language sequences.
 
 Key Highlights:
 
